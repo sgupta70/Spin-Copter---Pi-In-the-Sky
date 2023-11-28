@@ -1,1 +1,3 @@
-# Spin-Copter---Pi-In-the-Sky
+# Pi-In-the-Sky
+
+## Spin-Copter
