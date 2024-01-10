@@ -8,10 +8,32 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 [Link to Planning Document](https://docs.google.com/document/d/1Hr9R5iVlL1ZFCEMLIhlKDtE9QW_wassNP-DMbSHPYS0/edit?usp=sharing)
 
 ### Prototype
-![unnamed (1)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/0296d3e8-1781-4935-9915-0fb113a5a28c)
-![unnamed](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/963402f1-c3ba-41d0-981d-368d1995403d)
+ <div class="row">
+<!DOCTYPE png>
+<png>
+<body>
 
-<img src="[https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/963402f1-c3ba-41d0-981d-368d1995403d.png]" width="511.5" height="920.5">
+<figure>
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/d68b4344-4b22-46bb-9112-bfa1765b2c7f" alt="Answer 1" style ="width:12%">
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/71406905/197866304-5522e429-cf15-454f-975b-37f4f4569b96.png" alt="Answer 2" style ="width:12%">
+  <figcaption>Fig.2 - Answer 2.</figcaption>
+</figure>
+
+
+</body>
+</png>
+ </div>
+
 
 Minus hook because Sahana broke it off 2 seconds before the picture
 #### Images
