@@ -9,6 +9,9 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 
 
 ### Prototype
+
+#### Images
+
  <div class="row">
 <!DOCTYPE png>
 <png>
@@ -36,7 +39,6 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 
 
 Minus hook because Sahana broke it off 2 seconds before the picture
-#### Images
 
 #### Wiring
 
