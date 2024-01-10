@@ -9,6 +9,7 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 
 ### Prototype
 ![unnamed (1)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/0296d3e8-1781-4935-9915-0fb113a5a28c)
+![unnamed](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/756707ea-f305-44f2-89a4-d5bd14f7212b)
 
 ![unnamed](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/db442581-2263-4303-b4e4-db16a9efe5d9)
 
