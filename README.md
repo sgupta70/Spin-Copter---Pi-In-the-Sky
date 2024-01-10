@@ -10,7 +10,7 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 ### Prototype
 ![unnamed (1)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/0296d3e8-1781-4935-9915-0fb113a5a28c)
 <img src='[figure/rstudio](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/b2a8a403-31bf-4c4f-99ad-3e810bf108f8).png' width='100'>
-![]((https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/b2a8a403-31bf-4c4f-99ad-3e810bf108f8.png) | width=100)
+![]<(https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/b2a8a403-31bf-4c4f-99ad-3e810bf108f8.png) | width=100>
 
 Minus hook because Sahana broke it off 2 seconds before the picture
 #### Images
