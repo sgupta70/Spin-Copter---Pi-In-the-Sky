@@ -23,7 +23,7 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 
 <figure>
  
- <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/464ea530-5ce4-4013-9c07-c73c5e2bcdcd" style ="width:25%">
+ <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/464ea530-5ce4-4013-9c07-c73c5e2bcdcd" style ="width:38%">
  
 </figure>
 
@@ -36,7 +36,7 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 
 <figure>
 
-  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/cb541b69-a278-4b59-a113-31937a7d2f1b" style ="width:25%">
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/cb541b69-a278-4b59-a113-31937a7d2f1b" style ="width:38%">
  
 </figure>
 
