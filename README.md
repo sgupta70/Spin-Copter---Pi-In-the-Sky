@@ -56,3 +56,6 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 #### Code
 
+#### CAD
+
+![Assembly 1 (11)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/464ea530-5ce4-4013-9c07-c73c5e2bcdcd)
