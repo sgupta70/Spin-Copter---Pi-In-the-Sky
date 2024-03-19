@@ -57,7 +57,8 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 - Acrylic
 - 3D printed parts
 - Wires
-- Pico
+- Raspberry Pico
+- Pico Cowbell
 - Switch
 - Altimeter
 - Battery
