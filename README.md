@@ -106,20 +106,20 @@ displayio.release_displays() # this needs to be first in the code
 sda_pin = board.GP14
 scl_pin = board.GP15
 i2c = busio.I2C(scl_pin, sda_pin) 
-mpu = adafruit_mpu6050.MPU6050(i2c) # set up for variables and pin locations
+#mpu = adafruit_mpu6050.MPU6050(i2c) # set up for variables and pin locations
 sensor = adafruit_mpl3115a2.MPL3115A2(i2c)
 
 #sensor.sealevel_pressure = 1000
 
 while True: 
     altitude = sensor.altitude
-    acc = mpu.acceleration
-    print(f"X: {acc[0]}m/s² Y: {acc[1]}m/s² Z: {acc[2]}m/s²")
+    #acc = mpu.acceleration
+    #print(f"X: {acc[0]}m/s² Y: {acc[1]}m/s² Z: {acc[2]}m/s²")
     print("Altitude: {0:0.2f} meters".format(altitude)) 
     time.sleep(0.25)
     with open("/data.csv", "a") as datalog:
         time_elapsed = time.monotonic()
-        csv_string = f"{time_elapsed},{acc[0]},{acc[1]},{acc[2]},{altitude},\n"
+        csv_string = f"{time_elapsed},{altitude},\n"
         # f string showing time, acc, and whether or not it's tilted
         datalog.write(csv_string)
         time.sleep(0.1) 
