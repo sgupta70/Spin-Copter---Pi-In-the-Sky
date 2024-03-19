@@ -74,7 +74,7 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 
 <figure>
 
- <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/7d003fb6-6cab-4fa3-bdf3-b19311bec64a" style ="width:45%">
+ <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/86df8aa9-d854-415d-9b12-8a54c9012f46" style ="width:45%">
 
 </figure>
 
