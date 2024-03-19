@@ -48,7 +48,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 #### Wiring
 
-![Screenshot (3)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/fafb8860-dd0c-4098-9ff6-282048399d6b)
+![5678](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/c492dff7-44f0-4ea8-9877-a3b86df8e97b)
 
 ### Final Project
 
@@ -121,7 +121,8 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 #### Final Wiring
 
-![5678](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/c492dff7-44f0-4ea8-9877-a3b86df8e97b)
+
+![Screenshot (3)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/fafb8860-dd0c-4098-9ff6-282048399d6b)
 
 #### Code
 ```
