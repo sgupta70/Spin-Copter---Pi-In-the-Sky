@@ -47,6 +47,11 @@ https://docs.google.com/document/d/1Hr9R5iVlL1ZFCEMLIhlKDtE9QW_wassNP-DMbSHPYS0/
 
 Minus hook because Sahana broke it off 2 seconds before the picture
 
+#### Wiring
+
+![Screenshot (3)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/fafb8860-dd0c-4098-9ff6-282048399d6b)
+
+### Final Project
 
 #### Materials 
 - Acrylic
@@ -56,11 +61,6 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 - Switch
 - Altimeter
 - Battery
-
-
-#### Wiring
-
-![Screenshot (3)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/fafb8860-dd0c-4098-9ff6-282048399d6b)
 
 #### CAD
 
