@@ -57,7 +57,6 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 - Altimeter
 - Battery
 
-#### Images
 
 #### Wiring
 
@@ -120,7 +119,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
  </div>
 
 
-#### Wiring
+#### Final Wiring
 
 ![5678](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/c492dff7-44f0-4ea8-9877-a3b86df8e97b)
 
