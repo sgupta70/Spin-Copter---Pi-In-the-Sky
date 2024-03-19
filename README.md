@@ -11,6 +11,15 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 * [Planning](#Planning)
 * [Final](#Images)
 
+#### Materials 
+- Acrylic
+- 3D printed parts
+- Wires
+- Pico
+- Switch
+- Altimeter
+- Battery
+
 #### Images
 
 #### Wiring
