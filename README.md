@@ -120,8 +120,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 
 #### Final Wiring
-
-![Screenshot (6)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/82825efc-b289-4e7d-9ce1-e0b219c65f77)
+![Screenshot (6)](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/350fa1fa-858b-4343-ad7d-ff025bd16bc7)
 
 #### Code
 ```
