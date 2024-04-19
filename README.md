@@ -71,7 +71,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 <figure>
 
- <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/8e234e31-4b61-4559-a64c-5cd77cff5c9" style ="width:45%">
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/3c523043-d8d5-427d-94be-089cb217f534" style ="width:45%">
  
 </figure>
 
