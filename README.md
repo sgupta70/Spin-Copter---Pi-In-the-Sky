@@ -71,7 +71,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 <figure>
 
- <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/4c5a5fe3-7c59-41f8-80e8-40c6e86fb162" style ="width:45%">
+ <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/8e234e31-4b61-4559-a64c-5cd77cff5c9" style ="width:45%">
  
 </figure>
 
@@ -84,7 +84,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 <figure>
 
-  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/b1e15580-b288-45cc-b243-82de10305d341" style ="width:45%">
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/58752e5d-6c56-487f-9fdb-39dbe2795e24" style ="width:45%">
 
 </figure>
 
@@ -97,7 +97,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 <figure>
 
-  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/9975e601-a422-4a24-ab55-fad226584ced" style ="width:45%">
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/3241834f-1efc-40a2-9ec6-ff980117938a" style ="width:45%">
 
 </figure>
 
@@ -110,7 +110,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 <figure>
 
- <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/86df8aa9-d854-415d-9b12-8a54c9012f46" style ="width:45%">
+ <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/2bd94904-59ea-46a3-bd49-a565661baf12" style ="width:45%">
 
 </figure>
 
