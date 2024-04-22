@@ -65,6 +65,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 - Switch
 - Altimeter
 - Battery
+- Plastic Sheet
 
 #### CAD
 
