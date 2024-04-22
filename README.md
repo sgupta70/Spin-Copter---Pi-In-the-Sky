@@ -8,7 +8,10 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 
 ## Table of Contents
 * [Planning](#Planning)
-* [Final](#Images)
+* [Prototype](#Prototype)
+* [Materials](#Materials)
+* [Images](#Images)
+* [Final Wiring](#Final Wiring)
 
 ### Planning
 
