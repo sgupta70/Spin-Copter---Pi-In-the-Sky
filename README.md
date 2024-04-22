@@ -165,6 +165,67 @@ while True:
         time.sleep(0.25)
 ```
 
+#### Pictures
+
+<div class="row">
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/f4c72c5c-a9c7-4d8f-bd72-b434ee07aa60" style ="width:45%">
+ 
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/bd7828b4-450a-48e9-aa96-970dfbb8de11" style ="width:45%">
+
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/8374e7f1-3837-4805-b1d2-e9b1e4cc43fe" style ="width:45%">
+
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+
+ <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/61de208f-eb94-46e6-9bec-0434fc3a89eb" style ="width:45%">
+
+</figure>
+
+</body>
+</png>
+
+
+</body>
+</png>
+
+ </div>
+
 #### Reflection 
 
 
