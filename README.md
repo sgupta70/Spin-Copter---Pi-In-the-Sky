@@ -175,7 +175,7 @@ while True:
 
 <figure>
 
-  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/d7a52927-29d0-4c6a-a67b-9ec2f8e8501b0" style ="width:45%">
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/d7a52927-29d0-4c6a-a67b-9ec2f8e8501b0" style ="width:22%">
  
 </figure>
 
@@ -188,7 +188,7 @@ while True:
 
 <figure>
 
-  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/fdedc5c2-7a6e-407a-adea-f4c7c23c69ed" style ="width:45%">
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/fdedc5c2-7a6e-407a-adea-f4c7c23c69ed" style ="width:22%">
 
 </figure>
 
@@ -201,7 +201,7 @@ while True:
 
 <figure>
 
-  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/760b1978-5013-420a-83d1-6275f9c3daba" style ="width:45%">
+  <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/760b1978-5013-420a-83d1-6275f9c3daba" style ="width:22%">
 
 </figure>
 
@@ -214,7 +214,7 @@ while True:
 
 <figure>
 
- <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/c6b5ed2b-000c-48b3-92d8-e0f6babe4917" style ="width:45%">
+ <img src="https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/c6b5ed2b-000c-48b3-92d8-e0f6babe4917" style ="width:22%">
 
 </figure>
 
