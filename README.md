@@ -227,6 +227,11 @@ while True:
 
  </div>
 
+#### Testing
+
+### Images
+### Reflection/Things to change
+
 #### Issues/Limits
 We were limited to the amount of time we had as well as the materials we had. When making the spin copter we wanted to make a pair of wings. However we ran into some difficulty because the pico was heaving and we needed to make a contraption to hold it so it wouldn't break. This added a lot of extra weight to the copter so the wings didn't work quite well. 
 
