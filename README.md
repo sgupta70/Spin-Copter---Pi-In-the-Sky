@@ -230,7 +230,11 @@ while True:
 #### Testing
 
 ##### Results
+
+![chart](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/a0c2fb72-0612-4a22-9b4a-1bafe99e7517)
+
 ##### Reflection/Things to change
+We need to change and label the graphh, because rather being near 130 meters, it should be closer to 30 meters above sea level. We also needed to lessns the amount of time between data collections so that we get a more accurate curve. 
 
 #### Issues/Limits
 We were limited to the amount of time we had as well as the materials we had. When making the spin copter we wanted to make a pair of wings. However we ran into some difficulty because the pico was heaving and we needed to make a contraption to hold it so it wouldn't break. This added a lot of extra weight to the copter so the wings didn't work quite well. 
