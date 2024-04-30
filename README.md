@@ -229,7 +229,7 @@ while True:
 
 #### Testing
 
-##### Images
+##### Results
 ##### Reflection/Things to change
 
 #### Issues/Limits
