@@ -233,6 +233,8 @@ while True:
 
 ![chart](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/a0c2fb72-0612-4a22-9b4a-1bafe99e7517)
 
+Here are our results from a launch. 
+
 ##### Reflection/Things to change
 We need to change and label the graph, because rather being near 130 meters, it should be closer to 30 meters above sea level. We also needed to lessen the amount of time between data collections so that we get a more accurate curve. 
 
