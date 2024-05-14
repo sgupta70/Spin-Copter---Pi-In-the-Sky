@@ -233,10 +233,8 @@ while True:
 
 ![final graph](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406903/739ed27b-6f15-434e-ae9e-90ab82b568a9)
 
-Here are our results from a launch. 
+Here are our results from a launch. The x-axis represents the time in seconds and the y-axis represents the altitude in meters
 
-##### Reflection/Things to change
-We need to change and label the graph, because rather being near 130 meters, it should be closer to 30 meters above sea level. We also needed to lessen the amount of time between data collections so that we get a more accurate curve. 
 
 #### Issues/Limits
 We were limited to the amount of time we had as well as the materials we had, we had trouble trying to find a good material for the wings and we ended up cutting and bending the plastic sheets. The wings worked in the beginning but then one time when we threw the copter up the 3D printed piece that was holding the pico broke and was totally cracked. We realized that the walls were way too thin and we thickened them up, however when we thickend them it added a lot of extra weight to the pico so the wings didn't work as well because the load was so heavy. We
