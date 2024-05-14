@@ -231,7 +231,7 @@ while True:
 
 ##### Results
 
-![chart](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/a0c2fb72-0612-4a22-9b4a-1bafe99e7517)
+![final graph](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406903/739ed27b-6f15-434e-ae9e-90ab82b568a9)
 
 Here are our results from a launch. 
 
