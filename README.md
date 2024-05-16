@@ -9,9 +9,7 @@ For this project we need to get a Pi into the Sky. The payload must survive and 
 ## Table of Contents
 * [Planning](#Planning)
 * [Prototype](#Prototype)
-* [Materials](#Materials)
-* [Final Wiring](#Final_Wiring)
-* [Code](#Code)
+* [Final Project](#Final_Project)
 
 
 ### Planning
@@ -54,7 +52,7 @@ Minus hook because Sahana broke it off 2 seconds before the picture
 
 ![5678](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406905/c492dff7-44f0-4ea8-9877-a3b86df8e97b)
 
-### Final Project
+## Final Project
 
 #### Materials 
 - Acrylic
