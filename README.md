@@ -231,12 +231,12 @@ while True:
 
 ![final graph](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406903/739ed27b-6f15-434e-ae9e-90ab82b568a9)
 
-Here are our results from a launch. The x-axis represents the time in seconds and the y-axis represents the altitude in meters
-
+Here are our results from a launch. The x-axis represents the time in seconds and the y-axis represents the altitude in meters (the meter values are a little off because the starting value of the altimeter but the change of height in meters is consistent to the copter)
+As you can see in the data, the copter fell at a slower rate when coming back down. 
 
 #### Issues/Limits
-We were limited to the amount of time we had as well as the materials we had, we had trouble trying to find a good material for the wings and we ended up cutting and bending the plastic sheets. The wings worked in the beginning but then one time when we threw the copter up the 3D printed piece that was holding the pico broke and was totally cracked. We realized that the walls were way too thin and we thickened them up, however when we thickend them it added a lot of extra weight to the pico so the wings didn't work as well because the load was so heavy. We
+We were limited to the amount of time we had as well as the materials we had, we had trouble trying to find a good material for the wings and we ended up cutting and bending the plastic sheets. The wings worked in the beginning but then one time when we threw the copter up the 3D printed piece that was holding the pico broke and was totally cracked. We realized that the walls were way too thin and we thickened them up, however when we thickend them it added a lot of extra weight to the pico so the wings didn't work as well because of the added weight. We made the wings wider and longer which did help spin it a bit and make the copter fall at a slower rate. With the code we already had an exisitng assignment having to do with an altimeter, using that we just changed it to fit our pico. We did have a little trouble when soldering the wires because we put some in the wrong place so the code didn't work. However after realizing we were able to unsolder and fix the wiring and everything worked well. 
 
 #### Reflection 
-
+Overall this project was pretty much a success, we were able to slow the descent of our pico. We originally started with the idea of a rubber band spin copter and we tried to mimick the design. Because the pico is so large our copter ended up being bigger than we imagined which also added to the weight. Since it was very thick the rubber band didn't really help to shot the copter into the sky, but we were able to throw it and still get accurate data. If we were to do this project again we would look to use sturdier wings and a lighter body material. We would also maybe switch the CAD design to not make it as chucky as well as the design of the wings so they can catch airflow. The code is our project went very well, we finished it witin the predicted window and although we experienced a few hiccups of it suddenly not working it was mainly just a small little kink which was easy to fix. 
 
