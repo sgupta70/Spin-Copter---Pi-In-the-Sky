@@ -152,12 +152,12 @@ while True:
     altitude = sensor.altitude
     #acc = mpu.acceleration
     #print(f"X: {acc[0]}m/s² Y: {acc[1]}m/s² Z: {acc[2]}m/s²")
-    print("Altitude: {0:0.2f} meters".format(altitude)) 
-    time.sleep(0.25)
-    with open("/data.csv", "a") as datalog:
+    print("Altitude: {0:0.2f} meters".format(altitude)) # print the altitude in meters
+    time.sleep(0.25) # wait 0.25 seconds in between
+    with open("/data.csv", "a") as datalog: # save to data to data.csv 
         time_elapsed = time.monotonic()
-        csv_string = f"{time_elapsed},{altitude},\n"
-        # f string showing time, acc, and whether or not it's tilted
+        csv_string = f"{time_elapsed},{altitude},\n" 
+        # f string showing time and altitude
         datalog.write(csv_string)
         time.sleep(0.1) 
         datalog.flush() # record to the datalog
