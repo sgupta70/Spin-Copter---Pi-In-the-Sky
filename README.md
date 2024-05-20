@@ -225,7 +225,8 @@ while True:
 
  </div>
 
-#### Testing
+#### Video
+![IMG_1912-ezgif com-crop](https://github.com/sgupta70/Spin-Copter---Pi-In-the-Sky/assets/71406903/0b4664ec-b296-413b-9073-a1332614e4f9)
 
 ##### Results
 
